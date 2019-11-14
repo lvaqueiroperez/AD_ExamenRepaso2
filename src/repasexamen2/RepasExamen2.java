@@ -125,11 +125,7 @@ public class RepasExamen2 {
 
                             //YA TENEMOS CODP,CODC Y Y PESO 
                             //OJO, EN CONPOSICIÓN LA PRIMARYKEY SE COMPONE DE CODP Y CODC
-                            
                             //ACCESO A LA TABLA COMPONENTES
-                            
-                            
-                            
                         }
 
                     }
