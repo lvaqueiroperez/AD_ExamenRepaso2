@@ -1,6 +1,8 @@
 package repasexamen2;
 
-public class Platos {
+import java.io.Serializable;
+//OJO!! IMPLEMENTAR LA INTERFAZ SERIALIZABLE AL TRABAJAR CON DATOS SERIALIZADOS
+public class Platos implements Serializable {
 
     private String codp;
     private String nombre;
